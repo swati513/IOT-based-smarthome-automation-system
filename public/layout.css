@@ -1,0 +1,61 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-bottom: 5px;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: normal;
+}
+
+h2 {
+  margin: 0;
+}
+
+.btn-1 {
+  background-color: green;
+  border: 0;
+  width: 20%;
+  height: 40px;
+}
+
+.btn-1:hover {
+  background-color: #2b580c;
+}
+
+.btn-2 {
+  background-color: red;
+  border: 0;
+  width: 20%;
+  height: 40px;
+}
+
+.btn-2:hover {
+  background-color: #d32626;
+}
+
+.nav-bar {
+  padding: 15px;
+  padding-bottom: 1px;
+  background-color: #eeeeee;
+  text-align: center;
+  border-color: #ccc;
+	-webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2);
+}
+
+.main {
+  text-align: center;
+  width: 40%;
+  height: 40%;
+  margin-left: 30%;
+  margin-top: 10%;
+  padding: 30px 0;
+  -webkit-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2);
+	-moz-box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2);
+	box-shadow: 0 2px 3px 0 rgba(0,0,0,0.2);
+}
